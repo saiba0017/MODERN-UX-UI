@@ -1,0 +1,1 @@
+Modern responsive multi-page React website built using React Router and Tailwind CSS. Includes Home, Features, Pricing, and Testimonials pages with shared Navbar and Footer using Layout and Outlet. This project demonstrates routing, reusable components, and responsive UI design.
